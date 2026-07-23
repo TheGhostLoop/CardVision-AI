@@ -8,13 +8,14 @@ The model classifies **53 different playing card classes** (including Joker) fro
 
 ## 🚀 Live Demo
 
-🔗 **Streamlit App:** *(Add your Streamlit URL here)*
+🔗 **Streamlit App:** *https://cardvision-ai.streamlit.app/*
 
 ---
 
 ## 📸 Preview
 
-> Add screenshots 
+<img width="1251" height="624" alt="image" src="https://github.com/user-attachments/assets/02b87d90-e764-4971-9fd5-d91d4e1b7df7" />
+
 
 ## ✨ Features
 
