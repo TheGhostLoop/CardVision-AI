@@ -14,15 +14,7 @@ The model classifies **53 different playing card classes** (including Joker) fro
 
 ## 📸 Preview
 
-> Add screenshots or a GIF here.
-
-Example:
-
-```
-images/demo.gif
-```
-
----
+> Add screenshots 
 
 ## ✨ Features
 
